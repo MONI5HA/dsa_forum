@@ -20,6 +20,7 @@
 # production
 /build
 
+/libs
 # misc
 .DS_Store
 *.pem
